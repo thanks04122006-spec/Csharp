@@ -1,0 +1,14 @@
+D:\Csharp\a_0327_1\a_0327_1\bin\Debug\net10.0\a_0327_1.exe
+D:\Csharp\a_0327_1\a_0327_1\bin\Debug\net10.0\a_0327_1.deps.json
+D:\Csharp\a_0327_1\a_0327_1\bin\Debug\net10.0\a_0327_1.runtimeconfig.json
+D:\Csharp\a_0327_1\a_0327_1\bin\Debug\net10.0\a_0327_1.dll
+D:\Csharp\a_0327_1\a_0327_1\bin\Debug\net10.0\a_0327_1.pdb
+D:\Csharp\a_0327_1\a_0327_1\obj\Debug\net10.0\a_0327_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\a_0327_1\a_0327_1\obj\Debug\net10.0\a_0327_1.AssemblyInfoInputs.cache
+D:\Csharp\a_0327_1\a_0327_1\obj\Debug\net10.0\a_0327_1.AssemblyInfo.cs
+D:\Csharp\a_0327_1\a_0327_1\obj\Debug\net10.0\a_0327_1.csproj.CoreCompileInputs.cache
+D:\Csharp\a_0327_1\a_0327_1\obj\Debug\net10.0\a_0327_1.dll
+D:\Csharp\a_0327_1\a_0327_1\obj\Debug\net10.0\refint\a_0327_1.dll
+D:\Csharp\a_0327_1\a_0327_1\obj\Debug\net10.0\a_0327_1.pdb
+D:\Csharp\a_0327_1\a_0327_1\obj\Debug\net10.0\a_0327_1.genruntimeconfig.cache
+D:\Csharp\a_0327_1\a_0327_1\obj\Debug\net10.0\ref\a_0327_1.dll
